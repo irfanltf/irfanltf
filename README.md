@@ -1,4 +1,4 @@
-# Great! You have arriced here
+# Great! You have arrived here
 
 I'm a Web Developer And Lecturer Asistant at :computer: at Politeknik Negeri Lampung  <br />
 
