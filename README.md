@@ -29,3 +29,21 @@ Tech Stack <br />
 ![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
 
+#
+Experience
+
+<br />
+
+![](https://img.shields.io/badge/November%2020%20until%20current-00A98F?style=for-the-badge&logo=November%2020%20until%20current&logoColor=white)
+![](https://img.shields.io/badge/As%20Web%20Developer%20(Professional)%20At%20POLITEKNIK%20NEGERI%20LAMPUNG,%20LAMPUNG-FF8C00?style=for-the-badge&logo=As%20Web%20Developer%20(Professional)%20At&logoColor=white)
+
+
+![](https://img.shields.io/badge/March%2020%20until%20May%202020-00A98F?style=for-the-badge&logo=March%2020%20until%20May%202020&logoColor=white)
+![](https://img.shields.io/badge/As%20Web%20Developer%20(Internship)%20At%20CMLABS%20KOTA%20MALANG,%20EAST%20JAVA-696969?style=for-the-badge&logo=As%20Web%20Developer%20(Internship)%20At&logoColor=white)
+
+
+
+
+
+
+
